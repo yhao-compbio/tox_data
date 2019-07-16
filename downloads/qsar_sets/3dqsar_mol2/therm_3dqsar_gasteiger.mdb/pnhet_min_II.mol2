@@ -1,0 +1,54 @@
+#	Name:			pnhet_min
+#	Creating user name:	jeff
+#	Creation time:		Thu Dec 19 11:49:52 2002
+
+#	Modifying user name:	jeff
+#	Modification time:	Thu Dec 19 11:49:52 2002
+
+@<TRIPOS>MOLECULE
+pnhet_min
+   13    12     1     2     1
+SMALL
+GASTEIGER
+
+
+@<TRIPOS>ATOM
+      1 O2         -0.107000   -2.203000   -2.313000 O.co2     1 MAIN       -0.552754 
+      2 P3         -0.750360   -1.545040   -3.484869 P.3       1 MAIN       -0.006752 
+      3 O4          0.245208   -0.853175   -4.351049 O.co2     1 MAIN       -0.552754 
+      4 O5         -1.501360   -2.644040   -4.470869 O.3       1 MAIN       -0.803528 
+      5 H6         -2.512360   -0.153040   -3.884869 H         1 MAIN        0.144886 
+      6 N6         -1.922360   -0.385040   -2.997869 N.am      1 MAIN       -0.349646 
+      7 H72        -0.982360    0.734960   -1.484869 H         1 MAIN        0.045758 
+      8 H71        -0.898360    1.449960   -3.112869 H         1 MAIN        0.045758 
+      9 C7         -1.532360    0.910960   -2.408869 C.3       1 MAIN        0.005317 
+     10 H93        -2.475360    2.703960   -1.669869 H         1 MAIN        0.024468 
+     11 H92        -3.330360    1.929960   -3.026869 H         1 MAIN        0.024468 
+     12 H91        -3.413360    1.215960   -1.397869 H         1 MAIN        0.024468 
+     13 C9         -2.777360    1.750960   -2.103869 C.3       1 MAIN       -0.049687 
+@<TRIPOS>BOND
+     1    1    2 ar   
+     2    2    3 ar   
+     3    2    4 1    
+     4    2    6 1    
+     5    6    9 1    
+     6    9   13 1    
+     7   13   10 1    
+     8   13   11 1    
+     9   13   12 1    
+    10    9    7 1    
+    11    9    8 1    
+    12    6    5 1    
+@<TRIPOS>SUBSTRUCTURE
+     1 MAIN        1 PERM              0 ****  ****    0 ROOT 
+@<TRIPOS>SET
+LAB$A_TYPE      STATIC     ATOMS    LABELGROUP SYSTEM 
+13 1 2 3 4 5 6 7 8 9 10 11 12 13
+@<TRIPOS>NORMAL
+@<TRIPOS>ALT_TYPE
+MMFF94_ALT_TYPE_SET 
+MMFF94 1 O3P 2 PO3 3 O3P 4 O3P 5 HNPO 6 NPO2 7 HC 8 HC 9 CR 10 HC 11 HC \
+12 HC 13 CR 
+@<TRIPOS>FF_PBC
+FORCE_FIELD_SETUP_FEATURE Force Field Setup information
+v1.0  0 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 NONE 0 0 0 0 1 0 0 0 0 0 0 0 0
