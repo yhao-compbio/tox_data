@@ -1,4 +1,4 @@
-# Process toxicological resources and datasets
+# Collect and process toxicological resources and datasets
 
 # Source datasets
 
@@ -23,3 +23,23 @@
 # Source codes
  
 + [`src/r_qsardata.R`](src/r_qsardata.R) contains the codes that extract benchmark datasets from QSARdata R package. 
+
+# References
+
++ Ryan, Patrick B., et al. "Defining a reference set to support methodological research in drug safety." Drug safety 36.1 (2013): 33-47.
+
++ DePriest, Scott A., et al. "3D-QSAR of angiotensin-converting enzyme and thermolysin inhibitors: a comparison of CoMFA models based on deduced and experimentally determined active site geometries." Journal of the American Chemical Society 115.13 (1993): 5372-5384.
+
++ Gohlke, Holger, and Gerhard Klebe. "DrugScore meets CoMFA: adaptation of fields for molecular comparison (AFMoC) or how to tailor knowledge-based pair-potentials to a particular protein." Journal of medicinal chemistry 45.19 (2002): 4153-4170.
+
++ Böhm, Markus, Jörg Stürzebecher, and Gerhard Klebe. "Three-dimensional quantitative structure− activity relationship analyses using comparative molecular field analysis and comparative molecular similarity indices analysis to elucidate selectivity differences of inhibitors binding to trypsin, thrombin, and factor Xa." Journal of medicinal chemistry 42.3 (1999): 458-477.
+
++ Sutherland, Jeffrey J., Lee A. O'Brien, and Donald F. Weaver. "A comparison of methods for modeling quantitative structure− activity relationships." Journal of Medicinal Chemistry 47.22 (2004): 5541-5554.
+
++ Burns et al. 'A mathematical model for prediction of drug molecule diffusion across the blood-brain barrier'. The Canadian Journal of Neurological Sciences (2004) vol. 31 (4) pp. 520-527
+
++ He and Jurs. 'Assessing the reliability of a QSAR model's predictions'. Journal of Molecular Graphics and Modelling (2005) vol. 23 (6) pp. 503-523
+
++ Karthikeyan et al. 'General melting point prediction based on a diverse compound data set and artificial neural networks'. Journal of chemical information and modeling (2005) vol. 45 (3) pp. 581-90
+
++ Kazius et al. 'Derivation and validation of toxicophores for mutagenicity prediction'. Journal of medicinal chemistry(Print) (2005) vol. 48 (1) pp. 312-320 
