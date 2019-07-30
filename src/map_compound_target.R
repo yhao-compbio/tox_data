@@ -38,4 +38,4 @@ compound_target_df <- t(compound_target_df);
 
 # write mapping matrix to output file
 out_file <- paste(compound_file, "_target.tsv", sep = "");
-write.table(compound_target_df, file = out_file, row.names = F, col.names = T, quote = F);
+write.table(compound_target_df, file = out_file, row.names = F, col.names = T, quote = F, sep = "\t");
