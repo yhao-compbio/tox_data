@@ -1,6 +1,6 @@
 ## usr/bin/Rscript 
 ## created by Yun Hao @MooreLab 2019
-## This script extract benchmark datasets from QSARdata R package
+## This script extracts benchmark datasets from QSARdata R package
 
 ## Packages
 # install.packages("QSARdata");
