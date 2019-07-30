@@ -6,7 +6,7 @@
 
 + [`downloads/qsar_sets/`](downloads/qsar_sets/) contains QSAR benchmark datasets from [A Comparison of Methods for Modeling Quantitative Structure−Activity Relationships](https://doi.org/10.1021/jm0497141).
 
-+ [`downloads/uniprot\ links.csv`](downloads/uniprot\ links.csv) contains compounds~targets mapping from [DrugBank](https://www.drugbank.ca/releases/5-1-4/downloads/target-all-uniprot-links).
++ [`downloads/uniprot links.csv`](downloads/uniprot links.csv) contains compounds~targets mapping from [DrugBank](https://www.drugbank.ca/releases/5-1-4/downloads/target-all-uniprot-links).
 
 # Generated datasets 
 
