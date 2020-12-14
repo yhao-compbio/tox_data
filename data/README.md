@@ -2,9 +2,8 @@
 
 ## OFFSIDES 
 
-+ [`offsides/offsides_all_adverse_event_names.txt`](offsides/offsides_all_adverse_event_names.txt) contains all 14,545 adverse event (AE) terms from OFFSIDES. 
++ [`offsides/offsides_all_adverse_event_samples.tsv`](offsides/offsides_all_adverse_event_samples.tsv) contains generated positive/negative samples for 1,227 adverse events. 
 
-+ [`offsides/offsides_organ_toxicity_samples.tsv`](offsides/offsides_organ_toxicity_samples.tsv) contains generated positive/negative samples for four types of organ toxicity. 
-
-+ [`offsides/offsides_organ_toxicity_drugs.txt`](offsides/offsides_organ_toxicity_drugs.txt) contains all 2,438 drugs involved in four types of organ toxicity. 
++ [`offsides/offsides_all_adverse_event_drugs.txt`](offsides/offsides_all_adverse_event_drugs.txt) contains names of 2,728 drugs involved in the 1,227 adverse events. 
++ [`offsides/offsides_all_adverse_event_summary.tsv`](offsides/offsides_all_adverse_event_summary.tsv) contains a summary of sample size for the 1,227 adverse events. 
 

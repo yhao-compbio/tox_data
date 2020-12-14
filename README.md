@@ -1,8 +1,15 @@
 # This repository collects and processes toxicological resources and datasets. 
 
-+ [This dataset](data/offsides/) contains drug-organ toxicity relationships. It was generated from [the source dataset](downloads/offsides/) by [the code](src/parse_offsides.R).
+Detailed documentation about the source dataset can be found [here](downloads/README.md). Detailed documentation about the code can be found [here](src/README.md). Detailed documentation about the generated dataset can be found [here](data/README.md). Below are some basic summary statistics of the datasets.
 
-Detailed documentation about the source dataset can be found [here](downloads/README.md). Detailed documentation about the code can be found [here](src/README.md). Detailed documentation about the generated dataset can be found [here](data/README.md).
+## OFFSIDES: drug-adverse event relationships 
+ 
+| ------------- | ------------- |
+| Number of adverse events  | 1,227  |
+| Numbler or drugs invovled  | 2,728  |
+| Average number of samples per adverse event  | 912  |
+| Average number of positive samples per adverse event  | 171  |
+| Average number of negative samples per adverse event  | 741  |
 
 ## References
 
