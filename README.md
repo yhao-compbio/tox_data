@@ -4,7 +4,8 @@ Detailed documentation about the source dataset can be found [here](downloads/RE
 
 ## OFFSIDES: drug-adverse event relationships 
  
-| ------------- | ------------- |
+| <!-- -->    | <!-- -->    |
+| :------------- | :------------- |
 | Number of adverse events  | 1,227  |
 | Numbler or drugs invovled  | 2,728  |
 | Average number of samples per adverse event  | 912  |
