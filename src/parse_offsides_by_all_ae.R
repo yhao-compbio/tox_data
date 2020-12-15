@@ -1,6 +1,6 @@
 # !/usr/bin/env Rscript
 ## created by Yun Hao @MooreLab 2019
-## This script generates positive and negative samples for four types of organ toxicity
+## This script generates positive/negative samples for all adverse events from OFFSIDES
 
 offsides_file	<- "downloads/offsides/OFFSIDES.csv.xz";
 output_file	<- "data/offsides/offsides_all_adverse_event";
