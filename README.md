@@ -1,8 +1,10 @@
 # This repository collects and processes toxicological resources and datasets. 
 
-Detailed documentation about the source dataset can be found [here](downloads/README.md). Detailed documentation about the code can be found [here](src/README.md). Detailed documentation about the generated dataset can be found [here](data/README.md). Below are some basic summary statistics of the datasets.
+Detailed documentation about the source dataset can be found [here](downloads/README.md). Detailed documentation about the code can be found [here](src/README.md). Detailed documentation about the generated dataset can be found [here](data/README.md). Below are some brief descriptions of the datasets.
 
 ## OFFSIDES: drug-adverse event relationships 
+
+Below are some basic summary statistics of the datasets.
  
 | <!-- -->    | <!-- -->    |
 | :------------- | :------------- |
