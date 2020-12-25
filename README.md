@@ -1,10 +1,8 @@
-# This repository collects and processes toxicological resources and datasets. 
-
-Detailed documentation about the source dataset can be found [here](downloads/README.md). Detailed documentation about the code can be found [here](src/README.md). Detailed documentation about the generated dataset can be found [here](data/README.md). Below are some brief descriptions of the datasets.
+# This aim of this repository is to collect and process toxicological datasets. 
 
 ## OFFSIDES: drug-adverse event relationships 
 
-Below are some basic summary statistics of the datasets.
+The table below shows some basic summary statistics of OFFSIDES data.
  
 | <!-- -->    | <!-- -->    |
 | :------------- | :------------- |
@@ -13,6 +11,8 @@ Below are some basic summary statistics of the datasets.
 | Average number of samples per adverse event  | 912  |
 | Average number of positive samples per adverse event  | 171  |
 | Average number of negative samples per adverse event  | 741  |
+
+Detailed documentation about the source dataset can be found at [`downloads/`](downloads/). Detailed documentation about the code can be found at [`src/`](src/). Detailed documentation about the generated dataset can be found at [`data/`](data/).
 
 ## References
 
