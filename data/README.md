@@ -7,3 +7,6 @@
 + [`offsides/offsides_all_adverse_event_drugs.txt`](offsides/offsides_all_adverse_event_drugs.txt) contains names of 2,728 drugs involved in the 1,227 adverse events. 
 + [`offsides/offsides_all_adverse_event_summary.tsv`](offsides/offsides_all_adverse_event_summary.tsv) contains a summary of sample size for the 1,227 adverse events. 
 
+## Tox21
+
++ [`tox21/tox21_assay_samples.tsv`](tox21/tox21_assay_samples.tsv) contains generated active/inactive samples for 16 toxicity assays from Tox21.

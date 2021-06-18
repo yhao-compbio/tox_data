@@ -1,0 +1,69 @@
+protocol_name	assay_target	target_category	cell_line	cell_type
+tox21-ahr-p1	AhR	NR	HepG2	Liver
+tox21-ap1-agonist-p1	AP-1 agonist	SR	ME-180	Cervical Cancer
+tox21-ar-bla-agonist-p1	AR-BLA agonist	NR	HEK293	Kidney
+tox21-ar-bla-antagonist-p1	AR-BLA antagonist	NR	HEK293	Kidney
+tox21-ar-mda-kb2-luc-agonist-p1	AR-MDA agonist	NR	MDA-MB-453	Breast Cancer
+tox21-ar-mda-kb2-luc-agonist-p3	AR-MDA agonist (with antagonist)	NR	MDA-MB-453	Breast Cancer
+tox21-ar-mda-kb2-luc-antagonist-p1	AR-MDA antagonist	NR	MDA-MB-453	Breast Cancer
+tox21-ar-mda-kb2-luc-antagonist-p2	AR-MDA antagonist (lower agonist)	NR	MDA-MB-453	Breast Cancer
+tox21-are-bla-p1	ARE	SR	HepG2	Liver
+tox21-aromatase-p1	Aromatase	SR	MCF-7	Breast Cancer
+tox21-car-agonist-p1	CAR agonist	NR	HepG2	Liver
+tox21-car-antagonist-p1	CAR antagonist	NR	HepG2	Liver
+tox21-casp3-cho-p1	Caspase-3/7	Cytotoxicity	CHO	Hamster
+tox21-casp3-hepg2-p1	Caspase-3/7	Cytotoxicity	HepG2	Liver
+tox21-dt40-p1	Cell viability	Gene Tox	DT40	Chicken
+tox21-elg1-luc-agonist-p1	ATAD5	Gene Tox	HEK293	Kidney
+tox21-er-bla-agonist-p2	ER-BLA agonist	NR	HEK293	Kidney
+tox21-er-bla-antagonist-p1	ER-BLA antagonist	NR	HEK293	Kidney
+tox21-er-luc-bg1-4e2-agonist-p2	ER-BG1 agonist	NR	BG1	Ovarian
+tox21-er-luc-bg1-4e2-agonist-p4	ER-BG1 agonist (with antagonist)	NR	BG1	Ovarian
+tox21-er-luc-bg1-4e2-antagonist-p1	ER-BG1 antagonist	NR	BG1	Ovarian
+tox21-er-luc-bg1-4e2-antagonist-p2	ER-BG1 antagonist (lower agonist)	NR	BG1	Ovarian
+tox21-erb-bla-antagonist-p1	ER-beta antagonist	NR	HEK293	Kidney
+tox21-erb-bla-p1	ER-beta agonist	NR	HEK293	Kidney
+tox21-err-p1	ERR	NR	HEK293	Kidney
+tox21-esre-bla-p1	ER stress	SR	HeLa	Cervical Cancer
+tox21-fxr-bla-agonist-p2	FXR-BLA agonist	NR	HEK293	Kidney
+tox21-fxr-bla-antagonist-p1	FXR-BLA antagonist	NR	HEK293	Kidney
+tox21-gh3-tre-agonist-p1	TR-beta agonist	NR	GH3	Rat pituitary
+tox21-gh3-tre-antagonist-p1	TR-beta antagonist	NR	GH3	Rat pituitary
+tox21-gr-hela-bla-agonist-p1	GR-BLA agonist	NR	HeLa	Cervical Cancer
+tox21-gr-hela-bla-antagonist-p1	GR-BLA antagonist	NR	HeLa	Cervical Cancer
+tox21-h2ax-cho-p2	H2AX	Gene Tox	CHO	Hamster
+tox21-hdac-p1	HDAC	Gene Tox	HCT-116	Colon Cancer
+tox21-hre-bla-agonist-p1	HRE-BLA agonist	SR	ME-180	Cervical Cancer
+tox21-hse-bla-p1	HSE-BLA	SR	HeLa	Cervical Cancer
+tox21-luc-biochem-p1	Luciferase, biochemical	Counter Screen	N/A	Biochemical
+tox21-mitotox-p1	Mitochondria toxicity	SR	HepG2	Liver
+tox21-nfkb-bla-agonist-p1	NFkB agonist	SR	ME-180	Cervical Cancer
+tox21-p53-bla-p1	P53	Gene Tox	HCT-116	Colon Cancer
+tox21-pgc-err-p1	PGC-ERR	NR	HEK293	Kidney
+tox21-ppard-bla-agonist-p1	PPAR-delta-BLA agonist	NR	HEK293	Kidney
+tox21-ppard-bla-antagonist-p1	PPAR-delta-BLA antagonist	NR	HEK293	Kidney
+tox21-pparg-bla-agonist-p1	PPAR-gamma agonist	NR	HEK293	Kidney
+tox21-pparg-bla-antagonist-p1	PPAR-gamma antagonist	NR	HEK293	Kidney
+tox21-pr-bla-agonist-p1	PR-BLA agonist	NR	HEK293	Kidney
+tox21-pr-bla-antagonist-p1	PR-BLA antagonist	NR	HEK293	Kidney
+tox21-pxr-p1	PXR agonist	NR	HepG2	Liver
+tox21-rar-agonist-p1	RAR agonist	NR	C3H10T1/2	Murine embryo fibroblast
+tox21-rar-antagonist-p2	RAR antagonist	NR	C3H10T1/2	Murine embryo fibroblast
+tox21-rar-viability-p2	RAR viability	Cytotoxicity	C3H10T1/2	Murine embryo fibroblast
+tox21-ror-cho-antagonist-p1	ROR antagonist	NR	CHO	Hamster
+tox21-ror-cho-viability-p1	ROR viability	Cytotoxicity	CHO	Hamster
+tox21-rt-viability-hek293-p1	Cell viability	Cytotoxicity	HEK293	Kidney
+tox21-rt-viability-hepg2-p1	Cell viability	Cytotoxicity	HepG2	Liver
+tox21-rxr-bla-agonist-p1	RXR-BLA	NR	HEK293	Kidney
+tox21-sbe-bla-agonist-p1	SBE-BLA (TGF-beta) agonist	Developmental Toxicity	HEK293	Kidney
+tox21-sbe-bla-antagonist-p1	SBE-BLA (TGF-beta) antagonist	Developmental Toxicity	HEK293	Kidney
+tox21-shh-3t3-gli3-agonist-p1	Hedgehog agonist	Developmental Toxicity	NIH/3T3	Murine embryo fibroblast
+tox21-shh-3t3-gli3-antagonist-p1	Hedgehog antagonist	Developmental Toxicity	NIH/3T3	Murine embryo fibroblast
+tox21-spec-hek293-p1	Auto fluorescence	Counter Screen	HEK293	Kidney
+tox21-spec-hepg2-p1	Auto fluorescence	Counter Screen	HepG2	Liver
+tox21-trhr-hek293-p1	TRHR agonist and antagonist	GPCR	HEK293	Kidney
+tox21-tshr-agonist-p1	TSHR agonist	GPCR	HEK293	Kidney
+tox21-tshr-antagonist-p1	TSHR antagonist	GPCR	HEK293	Kidney
+tox21-tshr-wt-p1	TSHR wild type	GPCR	HEK293	Kidney
+tox21-vdr-bla-agonist-p1	VDR-BLA agonist	NR	HEK293	Kidney
+tox21-vdr-bla-antagonist-p1	VDR-BLA antagonist	NR	HEK293	Kidney
