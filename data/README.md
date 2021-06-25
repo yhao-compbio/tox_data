@@ -9,4 +9,4 @@
 
 ## Tox21
 
-+ [`tox21/tox21_assay_samples.tsv`](tox21/tox21_assay_samples.tsv) contains generated active/inactive samples for 16 toxicity assays from Tox21.
++ [`tox21/tox21_assay_samples_all.tsv`](tox21/tox21_assay_samples_all.tsv) contains generated active/inactive samples for 59 toxicity assays from Tox21. [`tox21/tox21_assay_samples.tsv`](tox21/tox21_assay_samples.tsv) contains generated data for 16 toxicity assays with more than 500 active/inactive samples.
