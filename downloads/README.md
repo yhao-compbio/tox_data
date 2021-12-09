@@ -11,3 +11,7 @@
 + [`tox21/tox21_assay_info.tsv`](tox21/tox21_assay_info.tsv) contains the detailed information for each toxicity assay. 
 
 + [`tox21/tox21_10k_library_info.tsv`](tox21/tox21_10k_library_info.tsv) contains the detailed information for screened chemicals.
+
+## DrugBank
+
++ [`drugbank/drug links.csv`](drugbank/drug%20links.csv) contains names of approved drugs from [DrugBank](https://go.drugbank.com/releases/5-1-8/downloads/approved-drug-links)
