@@ -1,0 +1,5 @@
+assay	reactome_id	assay_target
+tox21-ar-mda-kb2-luc-antagonist-p2	R-HSA-383280_P10275	Androgen receptor (AR)
+tox21-er-luc-bg1-4e2-agonist-p2	R-HSA-383280_P03372	Estrogen receptor (ERα)
+tox21-rar-antagonist-p2	R-HSA-383280_P10826	Retinoic acid receptor (RARβ)
+tox21-ror-cho-antagonist-p1	R-HSA-383280_P51449	RAR-related orphan receptor (RORγ)
