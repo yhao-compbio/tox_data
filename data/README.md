@@ -10,3 +10,11 @@
 ## Tox21
 
 + [`tox21/tox21_assay_samples_all.tsv`](tox21/tox21_assay_samples_all.tsv) contains generated active/inactive samples for 59 toxicity assays from Tox21. [`tox21/tox21_assay_samples.tsv`](tox21/tox21_assay_samples.tsv) contains generated data for 16 toxicity assays with more than 500 active/inactive samples.
+
++ [`tox21/tox21_10k_library_atc_code.tsv`](tox21/tox21_10k_library_atc_code.tsv) contains ATC classification code of compounds in the Tox21 library. 
+
+## Liver toxicity
+
++ [`LiverTox/dili_phenotype_terms.tsv`](LiverTox/dili_phenotype_terms.tsv) contains 20 adverse event terms from OFFSIDES that are associated with drug-induced liver injury (DILI). 
+
++ [`LiverTox/dili_phenotype_tox21_compounds.tsv`](LiverTox/dili_phenotype_tox21_compounds.tsv) contains positive and negative compounds of the 20 DILI events extracted from OFFSIDES. These compounds also appear in the Tox21 library.  
