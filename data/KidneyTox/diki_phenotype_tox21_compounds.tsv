@@ -1,0 +1,466 @@
+phenotype_name	phenotype_name_short	cid	compound_name
+kidney_infection	Kidney infection	CID_2662	celecoxib
+kidney_infection	Kidney infection	CID_2708	chlorambucil
+kidney_infection	Kidney infection	CID_9552079	chlorhexidine
+kidney_infection	Kidney infection	CID_2818	clozapine
+kidney_infection	Kidney infection	CID_5280793	ergocalciferol
+kidney_infection	Kidney infection	CID_3339	fenofibrate
+kidney_infection	Kidney infection	CID_3676	lidocaine
+kidney_infection	Kidney infection	CID_5281078	mycophenolate mofetil
+kidney_infection	Kidney infection	CID_4509	nitrofurantoin
+kidney_infection	Kidney infection	CID_5284600	orlistat
+kidney_infection	Kidney infection	CID_4993	pyrimethamine
+kidney_infection	Kidney infection	CID_5391	temazepam
+acute_kidney_injury	Acute kidney injury	CID_387447	bortezomib
+acute_kidney_injury	Acute kidney injury	CID_11556711	carfilzomib
+acute_kidney_injury	Acute kidney injury	CID_2767	cisplatin
+acute_kidney_injury	Acute kidney injury	CID_30323	daunorubicin
+acute_kidney_injury	Acute kidney injury	CID_9642	fluocinonide
+acute_kidney_injury	Acute kidney injury	CID_126941	methotrexate
+acute_kidney_injury	Acute kidney injury	CID_446541	mycophenolic acid
+acute_kidney_injury	Acute kidney injury	CID_5280795	vitamin d3
+renal_pain	Renal pain	CID_6167	colchicine
+renal_pain	Renal pain	CID_3016	diazepam
+renal_pain	Renal pain	CID_3042	dicyclomine
+renal_pain	Renal pain	CID_9642	fluocinonide
+renal_pain	Renal pain	CID_3676	lidocaine
+renal_pain	Renal pain	CID_4509	nitrofurantoin
+renal_pain	Renal pain	CID_5284600	orlistat
+renal_pain	Renal pain	CID_5391	temazepam
+renal_pain	Renal pain	CID_5452	thioridazine
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_5288783	calcipotriene
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_2726	chlorpromazine
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_2767	cisplatin
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_6167	colchicine
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_62881	deferoxamine
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_2724385	digoxin
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_31378	fludrocortisone
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_460612	melphalan
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_65906	mizolastine
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_9802545	paliperidone
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_4890	prazepam
+creatinine_renal_clearance_decreased	Renal CrCl decreased	CID_4993	pyrimethamine
+renal_injury	Renal injury	CID_11556711	carfilzomib
+renal_injury	Renal injury	CID_2724385	digoxin
+renal_injury	Renal injury	CID_3676	lidocaine
+renal_injury	Renal injury	CID_92727	lopinavir
+renal_injury	Renal injury	CID_53232	lovastatin
+renal_injury	Renal injury	CID_6741	methylprednisolone
+renal_injury	Renal injury	CID_4485	nifedipine
+renal_injury	Renal injury	CID_4499	nisoldipine
+renal_injury	Renal injury	CID_5391	temazepam
+renal_tubular_disorder	Renal tubular disorder	CID_5288783	calcipotriene
+renal_tubular_disorder	Renal tubular disorder	CID_2726	chlorpromazine
+renal_tubular_disorder	Renal tubular disorder	CID_2767	cisplatin
+renal_tubular_disorder	Renal tubular disorder	CID_119182	clofarabine
+renal_tubular_disorder	Renal tubular disorder	CID_64139	efavirenz
+renal_tubular_disorder	Renal tubular disorder	CID_5284558	etoposide
+renal_tubular_disorder	Renal tubular disorder	CID_3339	fenofibrate
+renal_tubular_disorder	Renal tubular disorder	CID_31378	fludrocortisone
+renal_tubular_disorder	Renal tubular disorder	CID_460612	melphalan
+renal_tubular_disorder	Renal tubular disorder	CID_6741	methylprednisolone
+renal_tubular_disorder	Renal tubular disorder	CID_5281078	mycophenolate mofetil
+renal_tubular_disorder	Renal tubular disorder	CID_446541	mycophenolic acid
+renal_tubular_disorder	Renal tubular disorder	CID_11296583	pirarubicin
+renal_tubular_disorder	Renal tubular disorder	CID_6323490	rifabutin
+renal_tubular_disorder	Renal tubular disorder	CID_392622	ritonavir
+renal_tubular_disorder	Renal tubular disorder	CID_5359476	sulfasalazine
+renal_tubular_disorder	Renal tubular disorder	CID_5280795	vitamin d3
+renal_atrophy	Renal atrophy	CID_387447	bortezomib
+renal_atrophy	Renal atrophy	CID_9552079	chlorhexidine
+renal_atrophy	Renal atrophy	CID_2767	cisplatin
+renal_atrophy	Renal atrophy	CID_28417	danazol
+renal_atrophy	Renal atrophy	CID_148124	docetaxel
+renal_atrophy	Renal atrophy	CID_5284558	etoposide
+renal_atrophy	Renal atrophy	CID_31378	fludrocortisone
+renal_atrophy	Renal atrophy	CID_104741	fulvestrant
+renal_atrophy	Renal atrophy	CID_123596	imatinib
+renal_atrophy	Renal atrophy	CID_53232	lovastatin
+renal_atrophy	Renal atrophy	CID_460612	melphalan
+renal_atrophy	Renal atrophy	CID_5281078	mycophenolate mofetil
+renal_atrophy	Renal atrophy	CID_4485	nifedipine
+renal_atrophy	Renal atrophy	CID_4499	nisoldipine
+renal_atrophy	Renal atrophy	CID_4927	promethazine
+renal_atrophy	Renal atrophy	CID_5035	raloxifene
+renal_atrophy	Renal atrophy	CID_5391	temazepam
+renal_failure	Renal failure	CID_74989	atovaquone
+renal_failure	Renal failure	CID_16363	benperidol
+renal_failure	Renal failure	CID_387447	bortezomib
+renal_failure	Renal failure	CID_11556711	carfilzomib
+renal_failure	Renal failure	CID_2662	celecoxib
+renal_failure	Renal failure	CID_2769	cisapride
+renal_failure	Renal failure	CID_2767	cisplatin
+renal_failure	Renal failure	CID_119182	clofarabine
+renal_failure	Renal failure	CID_6167	colchicine
+renal_failure	Renal failure	CID_30323	daunorubicin
+renal_failure	Renal failure	CID_62881	deferoxamine
+renal_failure	Renal failure	CID_441207	digitoxin
+renal_failure	Renal failure	CID_2724385	digoxin
+renal_failure	Renal failure	CID_5284558	etoposide
+renal_failure	Renal failure	CID_3339	fenofibrate
+renal_failure	Renal failure	CID_941361	flunarizine
+renal_failure	Renal failure	CID_60749	gemcitabine
+renal_failure	Renal failure	CID_441140	griseofulvin
+renal_failure	Renal failure	CID_3559	haloperidol
+renal_failure	Renal failure	CID_123596	imatinib
+renal_failure	Renal failure	CID_3784	isradipine
+renal_failure	Renal failure	CID_456201	ketoconazole
+renal_failure	Renal failure	CID_3676	lidocaine
+renal_failure	Renal failure	CID_460612	melphalan
+renal_failure	Renal failure	CID_126941	methotrexate
+renal_failure	Renal failure	CID_6741	methylprednisolone
+renal_failure	Renal failure	CID_4211	mitotane
+renal_failure	Renal failure	CID_5281078	mycophenolate mofetil
+renal_failure	Renal failure	CID_446541	mycophenolic acid
+renal_failure	Renal failure	CID_4474	nicardipine
+renal_failure	Renal failure	CID_4485	nifedipine
+renal_failure	Renal failure	CID_4499	nisoldipine
+renal_failure	Renal failure	CID_41684	nitazoxanide
+renal_failure	Renal failure	CID_10607	podofilox
+renal_failure	Renal failure	CID_147912	posaconazole
+renal_failure	Renal failure	CID_4921	proglumetacin
+renal_failure	Renal failure	CID_4927	promethazine
+renal_failure	Renal failure	CID_4992	pyrilamine
+renal_failure	Renal failure	CID_6323490	rifabutin
+renal_failure	Renal failure	CID_392622	ritonavir
+renal_failure	Renal failure	CID_406563	sorafenib
+renal_failure	Renal failure	CID_65999	telmisartan
+renal_failure	Renal failure	CID_5391	temazepam
+renal_failure	Renal failure	CID_5405	terfenadine
+renal_failure	Renal failure	CID_5591	troglitazone
+renal_failure_acute	Acute renal failure	CID_60196364	aprepitant
+renal_failure_acute	Acute renal failure	CID_82146	bexarotene
+renal_failure_acute	Acute renal failure	CID_387447	bortezomib
+renal_failure_acute	Acute renal failure	CID_11556711	carfilzomib
+renal_failure_acute	Acute renal failure	CID_9552079	chlorhexidine
+renal_failure_acute	Acute renal failure	CID_2767	cisplatin
+renal_failure_acute	Acute renal failure	CID_119182	clofarabine
+renal_failure_acute	Acute renal failure	CID_6167	colchicine
+renal_failure_acute	Acute renal failure	CID_28417	danazol
+renal_failure_acute	Acute renal failure	CID_30323	daunorubicin
+renal_failure_acute	Acute renal failure	CID_441207	digitoxin
+renal_failure_acute	Acute renal failure	CID_2724385	digoxin
+renal_failure_acute	Acute renal failure	CID_3117	disulfiram
+renal_failure_acute	Acute renal failure	CID_3168	droperidol
+renal_failure_acute	Acute renal failure	CID_5284558	etoposide
+renal_failure_acute	Acute renal failure	CID_3324	famciclovir
+renal_failure_acute	Acute renal failure	CID_3339	fenofibrate
+renal_failure_acute	Acute renal failure	CID_5790	floxuridine
+renal_failure_acute	Acute renal failure	CID_3397	flutamide
+renal_failure_acute	Acute renal failure	CID_60749	gemcitabine
+renal_failure_acute	Acute renal failure	CID_3747	ipriflavone
+renal_failure_acute	Acute renal failure	CID_5284486	lynestrenol
+renal_failure_acute	Acute renal failure	CID_460612	melphalan
+renal_failure_acute	Acute renal failure	CID_4066	mequitazine
+renal_failure_acute	Acute renal failure	CID_126941	methotrexate
+renal_failure_acute	Acute renal failure	CID_6741	methylprednisolone
+renal_failure_acute	Acute renal failure	CID_51082	mitoxantrone
+renal_failure_acute	Acute renal failure	CID_5281078	mycophenolate mofetil
+renal_failure_acute	Acute renal failure	CID_446541	mycophenolic acid
+renal_failure_acute	Acute renal failure	CID_5284439	perhexiline
+renal_failure_acute	Acute renal failure	CID_4927	promethazine
+renal_failure_acute	Acute renal failure	CID_4943	propofol
+renal_failure_acute	Acute renal failure	CID_392622	ritonavir
+renal_failure_acute	Acute renal failure	CID_65999	telmisartan
+renal_failure_acute	Acute renal failure	CID_5591	troglitazone
+renal_impairment	Renal impairment	CID_2351	bepridil
+renal_impairment	Renal impairment	CID_387447	bortezomib
+renal_impairment	Renal impairment	CID_13144	calcium lactate
+renal_impairment	Renal impairment	CID_2662	celecoxib
+renal_impairment	Renal impairment	CID_2754	cilostazol
+renal_impairment	Renal impairment	CID_2767	cisplatin
+renal_impairment	Renal impairment	CID_119182	clofarabine
+renal_impairment	Renal impairment	CID_2818	clozapine
+renal_impairment	Renal impairment	CID_30323	daunorubicin
+renal_impairment	Renal impairment	CID_62881	deferoxamine
+renal_impairment	Renal impairment	CID_2724385	digoxin
+renal_impairment	Renal impairment	CID_3108	dipyridamole
+renal_impairment	Renal impairment	CID_3151	domperidone
+renal_impairment	Renal impairment	CID_64139	efavirenz
+renal_impairment	Renal impairment	CID_5284558	etoposide
+renal_impairment	Renal impairment	CID_3333	felodipine
+renal_impairment	Renal impairment	CID_3339	fenofibrate
+renal_impairment	Renal impairment	CID_123631	gefitinib
+renal_impairment	Renal impairment	CID_60749	gemcitabine
+renal_impairment	Renal impairment	CID_55283	itraconazole
+renal_impairment	Renal impairment	CID_3676	lidocaine
+renal_impairment	Renal impairment	CID_54677470	meloxicam
+renal_impairment	Renal impairment	CID_460612	melphalan
+renal_impairment	Renal impairment	CID_126941	methotrexate
+renal_impairment	Renal impairment	CID_6741	methylprednisolone
+renal_impairment	Renal impairment	CID_51082	mitoxantrone
+renal_impairment	Renal impairment	CID_5281078	mycophenolate mofetil
+renal_impairment	Renal impairment	CID_446541	mycophenolic acid
+renal_impairment	Renal impairment	CID_34040	nicergoline
+renal_impairment	Renal impairment	CID_4485	nifedipine
+renal_impairment	Renal impairment	CID_4615	oxatomide
+renal_impairment	Renal impairment	CID_10113978	pazopanib
+renal_impairment	Renal impairment	CID_11296583	pirarubicin
+renal_impairment	Renal impairment	CID_104758	raltitrexed
+renal_impairment	Renal impairment	CID_392622	ritonavir
+renal_impairment	Renal impairment	CID_406563	sorafenib
+renal_impairment	Renal impairment	CID_65999	telmisartan
+renal_impairment	Renal impairment	CID_216237	tolvaptan
+renal_impairment	Renal impairment	CID_5591	troglitazone
+renal_disorder	Renal disorder	CID_2554	carbamazepine
+renal_disorder	Renal disorder	CID_2662	celecoxib
+renal_disorder	Renal disorder	CID_2726	chlorpromazine
+renal_disorder	Renal disorder	CID_2754	cilostazol
+renal_disorder	Renal disorder	CID_2769	cisapride
+renal_disorder	Renal disorder	CID_969516	curcumin
+renal_disorder	Renal disorder	CID_62881	deferoxamine
+renal_disorder	Renal disorder	CID_2724385	digoxin
+renal_disorder	Renal disorder	CID_3108	dipyridamole
+renal_disorder	Renal disorder	CID_5284558	etoposide
+renal_disorder	Renal disorder	CID_3339	fenofibrate
+renal_disorder	Renal disorder	CID_9642	fluocinonide
+renal_disorder	Renal disorder	CID_123631	gefitinib
+renal_disorder	Renal disorder	CID_123596	imatinib
+renal_disorder	Renal disorder	CID_55283	itraconazole
+renal_disorder	Renal disorder	CID_54677470	meloxicam
+renal_disorder	Renal disorder	CID_460612	melphalan
+renal_disorder	Renal disorder	CID_6741	methylprednisolone
+renal_disorder	Renal disorder	CID_5281078	mycophenolate mofetil
+renal_disorder	Renal disorder	CID_446541	mycophenolic acid
+renal_disorder	Renal disorder	CID_4485	nifedipine
+renal_disorder	Renal disorder	CID_4509	nitrofurantoin
+renal_disorder	Renal disorder	CID_4927	promethazine
+renal_disorder	Renal disorder	CID_5546	triamterene
+renal_failure_chronic	Chronic renal failure	CID_60164	adapalene
+renal_failure_chronic	Chronic renal failure	CID_387447	bortezomib
+renal_failure_chronic	Chronic renal failure	CID_9552079	chlorhexidine
+renal_failure_chronic	Chronic renal failure	CID_38911	ciclopirox
+renal_failure_chronic	Chronic renal failure	CID_2767	cisplatin
+renal_failure_chronic	Chronic renal failure	CID_2812	clotrimazole
+renal_failure_chronic	Chronic renal failure	CID_2818	clozapine
+renal_failure_chronic	Chronic renal failure	CID_6167	colchicine
+renal_failure_chronic	Chronic renal failure	CID_2724385	digoxin
+renal_failure_chronic	Chronic renal failure	CID_3108	dipyridamole
+renal_failure_chronic	Chronic renal failure	CID_5280793	ergocalciferol
+renal_failure_chronic	Chronic renal failure	CID_150311	ezetimibe
+renal_failure_chronic	Chronic renal failure	CID_3339	fenofibrate
+renal_failure_chronic	Chronic renal failure	CID_104741	fulvestrant
+renal_failure_chronic	Chronic renal failure	CID_60749	gemcitabine
+renal_failure_chronic	Chronic renal failure	CID_3559	haloperidol
+renal_failure_chronic	Chronic renal failure	CID_123596	imatinib
+renal_failure_chronic	Chronic renal failure	CID_456201	ketoconazole
+renal_failure_chronic	Chronic renal failure	CID_53232	lovastatin
+renal_failure_chronic	Chronic renal failure	CID_5281078	mycophenolate mofetil
+renal_failure_chronic	Chronic renal failure	CID_446541	mycophenolic acid
+renal_failure_chronic	Chronic renal failure	CID_4485	nifedipine
+renal_failure_chronic	Chronic renal failure	CID_4499	nisoldipine
+renal_failure_chronic	Chronic renal failure	CID_4927	promethazine
+renal_failure_chronic	Chronic renal failure	CID_392622	ritonavir
+renal_failure_chronic	Chronic renal failure	CID_2733526	tamoxifen
+renal_failure_chronic	Chronic renal failure	CID_65999	telmisartan
+renal_failure_chronic	Chronic renal failure	CID_5391	temazepam
+renal_failure_chronic	Chronic renal failure	CID_5546	triamterene
+renal_cyst	Renal cyst	CID_7699	benzonatate
+renal_cyst	Renal cyst	CID_387447	bortezomib
+renal_cyst	Renal cyst	CID_2662	celecoxib
+renal_cyst	Renal cyst	CID_2708	chlorambucil
+renal_cyst	Renal cyst	CID_9552079	chlorhexidine
+renal_cyst	Renal cyst	CID_2812	clotrimazole
+renal_cyst	Renal cyst	CID_6167	colchicine
+renal_cyst	Renal cyst	CID_2724385	digoxin
+renal_cyst	Renal cyst	CID_3108	dipyridamole
+renal_cyst	Renal cyst	CID_148124	docetaxel
+renal_cyst	Renal cyst	CID_16850	fluorescein
+renal_cyst	Renal cyst	CID_104741	fulvestrant
+renal_cyst	Renal cyst	CID_123596	imatinib
+renal_cyst	Renal cyst	CID_57469	imiquimod
+renal_cyst	Renal cyst	CID_456201	ketoconazole
+renal_cyst	Renal cyst	CID_53232	lovastatin
+renal_cyst	Renal cyst	CID_460612	melphalan
+renal_cyst	Renal cyst	CID_126941	methotrexate
+renal_cyst	Renal cyst	CID_5281078	mycophenolate mofetil
+renal_cyst	Renal cyst	CID_446541	mycophenolic acid
+renal_cyst	Renal cyst	CID_4485	nifedipine
+renal_cyst	Renal cyst	CID_10607	podofilox
+renal_cyst	Renal cyst	CID_4927	promethazine
+renal_cyst	Renal cyst	CID_5035	raloxifene
+renal_cyst	Renal cyst	CID_392622	ritonavir
+renal_cyst	Renal cyst	CID_2733526	tamoxifen
+renal_cyst	Renal cyst	CID_5391	temazepam
+renal_cyst	Renal cyst	CID_5591	troglitazone
+renal_tubular_necrosis	Renal tubular necrosis	CID_74989	atovaquone
+renal_tubular_necrosis	Renal tubular necrosis	CID_2767	cisplatin
+renal_tubular_necrosis	Renal tubular necrosis	CID_30323	daunorubicin
+renal_tubular_necrosis	Renal tubular necrosis	CID_3168	droperidol
+renal_tubular_necrosis	Renal tubular necrosis	CID_3333	felodipine
+renal_tubular_necrosis	Renal tubular necrosis	CID_3339	fenofibrate
+renal_tubular_necrosis	Renal tubular necrosis	CID_57469	imiquimod
+renal_tubular_necrosis	Renal tubular necrosis	CID_456201	ketoconazole
+renal_tubular_necrosis	Renal tubular necrosis	CID_92727	lopinavir
+renal_tubular_necrosis	Renal tubular necrosis	CID_6741	methylprednisolone
+renal_tubular_necrosis	Renal tubular necrosis	CID_5281078	mycophenolate mofetil
+renal_tubular_necrosis	Renal tubular necrosis	CID_446541	mycophenolic acid
+renal_tubular_necrosis	Renal tubular necrosis	CID_4499	nisoldipine
+renal_tubular_necrosis	Renal tubular necrosis	CID_4943	propofol
+renal_tubular_necrosis	Renal tubular necrosis	CID_6323490	rifabutin
+renal_tubular_necrosis	Renal tubular necrosis	CID_392622	ritonavir
+renal_tubular_necrosis	Renal tubular necrosis	CID_5591	troglitazone
+nephropathy_toxic	Toxic nephropathy	CID_2767	cisplatin
+nephropathy_toxic	Toxic nephropathy	CID_119182	clofarabine
+nephropathy_toxic	Toxic nephropathy	CID_5280793	ergocalciferol
+nephropathy_toxic	Toxic nephropathy	CID_3324	famciclovir
+nephropathy_toxic	Toxic nephropathy	CID_60749	gemcitabine
+nephropathy_toxic	Toxic nephropathy	CID_456201	ketoconazole
+nephropathy_toxic	Toxic nephropathy	CID_92727	lopinavir
+nephropathy_toxic	Toxic nephropathy	CID_460612	melphalan
+nephropathy_toxic	Toxic nephropathy	CID_6741	methylprednisolone
+nephropathy_toxic	Toxic nephropathy	CID_5281078	mycophenolate mofetil
+nephropathy_toxic	Toxic nephropathy	CID_446541	mycophenolic acid
+nephropathy_toxic	Toxic nephropathy	CID_4890	prazepam
+nephropathy_toxic	Toxic nephropathy	CID_5453	thiotepa
+pyelonephritis_acute	Acute pyelonephritis	CID_2662	celecoxib
+pyelonephritis_acute	Acute pyelonephritis	CID_2754	cilostazol
+pyelonephritis_acute	Acute pyelonephritis	CID_3151	domperidone
+pyelonephritis_acute	Acute pyelonephritis	CID_456201	ketoconazole
+pyelonephritis_acute	Acute pyelonephritis	CID_126941	methotrexate
+pyelonephritis_acute	Acute pyelonephritis	CID_6741	methylprednisolone
+pyelonephritis_acute	Acute pyelonephritis	CID_5281078	mycophenolate mofetil
+pyelonephritis_acute	Acute pyelonephritis	CID_446541	mycophenolic acid
+pyelonephritis_acute	Acute pyelonephritis	CID_4927	promethazine
+pyelonephritis_acute	Acute pyelonephritis	CID_5359476	sulfasalazine
+pyelonephritis_acute	Acute pyelonephritis	CID_65999	telmisartan
+nephritis_interstitial	Interstitial nephritis	CID_2767	cisplatin
+nephritis_interstitial	Interstitial nephritis	CID_3108	dipyridamole
+nephritis_interstitial	Interstitial nephritis	CID_64139	efavirenz
+nephritis_interstitial	Interstitial nephritis	CID_3324	famciclovir
+nephritis_interstitial	Interstitial nephritis	CID_3333	felodipine
+nephritis_interstitial	Interstitial nephritis	CID_3339	fenofibrate
+nephritis_interstitial	Interstitial nephritis	CID_4066	mequitazine
+nephritis_interstitial	Interstitial nephritis	CID_5281078	mycophenolate mofetil
+nephritis_interstitial	Interstitial nephritis	CID_4615	oxatomide
+nephritis_interstitial	Interstitial nephritis	CID_392622	ritonavir
+nephrogenic_systemic_fibrosis	NSF	CID_5288783	calcipotriene
+nephrogenic_systemic_fibrosis	NSF	CID_2812	clotrimazole
+nephrogenic_systemic_fibrosis	NSF	CID_6167	colchicine
+nephrogenic_systemic_fibrosis	NSF	CID_3168	droperidol
+nephrogenic_systemic_fibrosis	NSF	CID_5284558	etoposide
+nephrogenic_systemic_fibrosis	NSF	CID_3333	felodipine
+nephrogenic_systemic_fibrosis	NSF	CID_31378	fludrocortisone
+nephrogenic_systemic_fibrosis	NSF	CID_3784	isradipine
+nephrogenic_systemic_fibrosis	NSF	CID_5281078	mycophenolate mofetil
+nephrogenic_systemic_fibrosis	NSF	CID_446541	mycophenolic acid
+nephrogenic_systemic_fibrosis	NSF	CID_4485	nifedipine
+nephrogenic_systemic_fibrosis	NSF	CID_4499	nisoldipine
+nephrolithiasis	Nephrolithiasis	CID_16363	benperidol
+nephrolithiasis	Nephrolithiasis	CID_82146	bexarotene
+nephrolithiasis	Nephrolithiasis	CID_2477	buspirone
+nephrolithiasis	Nephrolithiasis	CID_2519	caffeine
+nephrolithiasis	Nephrolithiasis	CID_5288783	calcipotriene
+nephrolithiasis	Nephrolithiasis	CID_2662	celecoxib
+nephrolithiasis	Nephrolithiasis	CID_2708	chlorambucil
+nephrolithiasis	Nephrolithiasis	CID_9552079	chlorhexidine
+nephrolithiasis	Nephrolithiasis	CID_38911	ciclopirox
+nephrolithiasis	Nephrolithiasis	CID_28417	danazol
+nephrolithiasis	Nephrolithiasis	CID_2724385	digoxin
+nephrolithiasis	Nephrolithiasis	CID_3151	domperidone
+nephrolithiasis	Nephrolithiasis	CID_3339	fenofibrate
+nephrolithiasis	Nephrolithiasis	CID_941361	flunarizine
+nephrolithiasis	Nephrolithiasis	CID_123596	imatinib
+nephrolithiasis	Nephrolithiasis	CID_456201	ketoconazole
+nephrolithiasis	Nephrolithiasis	CID_4114	methoxsalen
+nephrolithiasis	Nephrolithiasis	CID_4509	nitrofurantoin
+nephrolithiasis	Nephrolithiasis	CID_5284600	orlistat
+nephrolithiasis	Nephrolithiasis	CID_4927	promethazine
+nephrolithiasis	Nephrolithiasis	CID_5035	raloxifene
+nephrolithiasis	Nephrolithiasis	CID_392622	ritonavir
+nephrolithiasis	Nephrolithiasis	CID_6013	testosterone
+pyelonephritis	Pyelonephritis	CID_2170	amoxapine
+pyelonephritis	Pyelonephritis	CID_387447	bortezomib
+pyelonephritis	Pyelonephritis	CID_2662	celecoxib
+pyelonephritis	Pyelonephritis	CID_9552079	chlorhexidine
+pyelonephritis	Pyelonephritis	CID_2769	cisapride
+pyelonephritis	Pyelonephritis	CID_2767	cisplatin
+pyelonephritis	Pyelonephritis	CID_2812	clotrimazole
+pyelonephritis	Pyelonephritis	CID_2818	clozapine
+pyelonephritis	Pyelonephritis	CID_62881	deferoxamine
+pyelonephritis	Pyelonephritis	CID_60749	gemcitabine
+pyelonephritis	Pyelonephritis	CID_126941	methotrexate
+pyelonephritis	Pyelonephritis	CID_6741	methylprednisolone
+pyelonephritis	Pyelonephritis	CID_5281078	mycophenolate mofetil
+pyelonephritis	Pyelonephritis	CID_446541	mycophenolic acid
+pyelonephritis	Pyelonephritis	CID_34040	nicergoline
+pyelonephritis	Pyelonephritis	CID_4509	nitrofurantoin
+pyelonephritis	Pyelonephritis	CID_4927	promethazine
+pyelonephritis	Pyelonephritis	CID_493570	riboflavin
+pyelonephritis	Pyelonephritis	CID_392622	ritonavir
+pyelonephritis	Pyelonephritis	CID_59227	rotigotine
+pyelonephritis	Pyelonephritis	CID_65999	telmisartan
+pyelonephritis	Pyelonephritis	CID_216237	tolvaptan
+hydronephrosis	Hydronephrosis	CID_60164	adapalene
+hydronephrosis	Hydronephrosis	CID_2170	amoxapine
+hydronephrosis	Hydronephrosis	CID_7699	benzonatate
+hydronephrosis	Hydronephrosis	CID_2554	carbamazepine
+hydronephrosis	Hydronephrosis	CID_2662	celecoxib
+hydronephrosis	Hydronephrosis	CID_2708	chlorambucil
+hydronephrosis	Hydronephrosis	CID_9552079	chlorhexidine
+hydronephrosis	Hydronephrosis	CID_2767	cisplatin
+hydronephrosis	Hydronephrosis	CID_2818	clozapine
+hydronephrosis	Hydronephrosis	CID_2724385	digoxin
+hydronephrosis	Hydronephrosis	CID_104741	fulvestrant
+hydronephrosis	Hydronephrosis	CID_60749	gemcitabine
+hydronephrosis	Hydronephrosis	CID_123596	imatinib
+hydronephrosis	Hydronephrosis	CID_456201	ketoconazole
+hydronephrosis	Hydronephrosis	CID_3878	lamotrigine
+hydronephrosis	Hydronephrosis	CID_126941	methotrexate
+hydronephrosis	Hydronephrosis	CID_6741	methylprednisolone
+hydronephrosis	Hydronephrosis	CID_5281078	mycophenolate mofetil
+hydronephrosis	Hydronephrosis	CID_446541	mycophenolic acid
+hydronephrosis	Hydronephrosis	CID_4485	nifedipine
+hydronephrosis	Hydronephrosis	CID_4509	nitrofurantoin
+hydronephrosis	Hydronephrosis	CID_2733526	tamoxifen
+tubulointerstitial_nephritis	TIN	CID_40000	budesonide
+tubulointerstitial_nephritis	TIN	CID_2554	carbamazepine
+tubulointerstitial_nephritis	TIN	CID_9552079	chlorhexidine
+tubulointerstitial_nephritis	TIN	CID_3108	dipyridamole
+tubulointerstitial_nephritis	TIN	CID_64139	efavirenz
+tubulointerstitial_nephritis	TIN	CID_5284558	etoposide
+tubulointerstitial_nephritis	TIN	CID_441140	griseofulvin
+tubulointerstitial_nephritis	TIN	CID_3784	isradipine
+tubulointerstitial_nephritis	TIN	CID_6741	methylprednisolone
+tubulointerstitial_nephritis	TIN	CID_5281078	mycophenolate mofetil
+tubulointerstitial_nephritis	TIN	CID_446541	mycophenolic acid
+tubulointerstitial_nephritis	TIN	CID_4485	nifedipine
+tubulointerstitial_nephritis	TIN	CID_4509	nitrofurantoin
+tubulointerstitial_nephritis	TIN	CID_4748	perphenazine
+tubulointerstitial_nephritis	TIN	CID_4993	pyrimethamine
+tubulointerstitial_nephritis	TIN	CID_392622	ritonavir
+tubulointerstitial_nephritis	TIN	CID_65999	telmisartan
+nephrotic_syndrome	Nephrotic syndrome	CID_2519	caffeine
+nephrotic_syndrome	Nephrotic syndrome	CID_2754	cilostazol
+nephrotic_syndrome	Nephrotic syndrome	CID_3062316	dasatinib
+nephrotic_syndrome	Nephrotic syndrome	CID_3108	dipyridamole
+nephrotic_syndrome	Nephrotic syndrome	CID_3151	domperidone
+nephrotic_syndrome	Nephrotic syndrome	CID_64139	efavirenz
+nephrotic_syndrome	Nephrotic syndrome	CID_9642	fluocinonide
+nephrotic_syndrome	Nephrotic syndrome	CID_3385	fluorouracil
+nephrotic_syndrome	Nephrotic syndrome	CID_3397	flutamide
+nephrotic_syndrome	Nephrotic syndrome	CID_104741	fulvestrant
+nephrotic_syndrome	Nephrotic syndrome	CID_123631	gefitinib
+nephrotic_syndrome	Nephrotic syndrome	CID_60749	gemcitabine
+nephrotic_syndrome	Nephrotic syndrome	CID_74990	irinotecan
+nephrotic_syndrome	Nephrotic syndrome	CID_54677470	meloxicam
+nephrotic_syndrome	Nephrotic syndrome	CID_6741	methylprednisolone
+nephrotic_syndrome	Nephrotic syndrome	CID_5281078	mycophenolate mofetil
+nephrotic_syndrome	Nephrotic syndrome	CID_4485	nifedipine
+nephrotic_syndrome	Nephrotic syndrome	CID_10113978	pazopanib
+nephrotic_syndrome	Nephrotic syndrome	CID_392622	ritonavir
+nephrotic_syndrome	Nephrotic syndrome	CID_406563	sorafenib
+nephrotic_syndrome	Nephrotic syndrome	CID_5359476	sulfasalazine
+nephropathy	Nephropathy	CID_2477	buspirone
+nephropathy	Nephropathy	CID_5288783	calcipotriene
+nephropathy	Nephropathy	CID_2726	chlorpromazine
+nephropathy	Nephropathy	CID_2767	cisplatin
+nephropathy	Nephropathy	CID_64139	efavirenz
+nephropathy	Nephropathy	CID_123596	imatinib
+nephropathy	Nephropathy	CID_456201	ketoconazole
+nephropathy	Nephropathy	CID_6741	methylprednisolone
+nephropathy	Nephropathy	CID_5281078	mycophenolate mofetil
+nephropathy	Nephropathy	CID_4485	nifedipine
+nephropathy	Nephropathy	CID_4507	nitrendipine
+nephropathy	Nephropathy	CID_5284600	orlistat
+nephropathy	Nephropathy	CID_392622	ritonavir
