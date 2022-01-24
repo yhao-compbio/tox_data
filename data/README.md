@@ -17,7 +17,9 @@
 
 + [`LiverTox/dili_phenotype_terms.tsv`](LiverTox/dili_phenotype_terms.tsv) contains 20 adverse event terms from OFFSIDES that are associated with drug-induced liver injury (DILI). 
 
-+ [`LiverTox/dili_phenotype_tox21_compounds.tsv`](LiverTox/dili_phenotype_tox21_compounds.tsv) contains Tox21 compounds associated with the 20 DILI events extracted from OFFSIDES. [`LiverTox/dili_phenotype_dsstox_compounds.tsv`](LiverTox/dili_phenotype_dsstox_compounds.tsv) contains DSSTox compounds associated with the 20 DILI events extracted from OFFSIDES.
++ [`LiverTox/dili_phenotype_tox21_compounds.tsv`](LiverTox/dili_phenotype_tox21_compounds.tsv) contains Tox21 compounds associated with the 20 DILI events extracted from OFFSIDES. 
+
++ [`LiverTox/dili_phenotype_dsstox_compounds.tsv`](LiverTox/dili_phenotype_dsstox_compounds.tsv) contains DSSTox compounds associated with the 20 DILI events extracted from OFFSIDES.
 
 + [`LiverTox/dili_phenotype_tox21-rt-viability-hepg2-p1_association.tsv`](LiverTox/dili_phenotype_tox21-rt-viability-hepg2-p1_association.tsv) contains computed association odds ratio between Tox21 HepG2 Cell viability phenotype and 20 DILI phenotypes extracted from OFFSIDES.  
 
@@ -25,6 +27,18 @@
 
 + [`KidneyTox/diki_phenotype_terms.tsv`](KidneyTox/diki_phenotype_terms.tsv) contains 24 adverse event terms from OFFSIDES that are associated with drug-induced kidney injury (DIKI).
 
-+ [`KidneyTox/KidneyTox/diki_phenotype_tox21_compounds.tsv`](KidneyTox/KidneyTox/diki_phenotype_tox21_compounds.tsv) contains Tox21 compounds associated with the 24 DIKI events extracted from OFFSIDES. [`KidneyTox/diki_phenotype_dsstox_compounds.tsv`](KidneyTox/diki_phenotype_dsstox_compounds.tsv) contains DSSTox compounds associated with the 24 DIKI events extracted from OFFSIDES.
++ [`KidneyTox/KidneyTox/diki_phenotype_tox21_compounds.tsv`](KidneyTox/diki_phenotype_tox21_compounds.tsv) contains Tox21 compounds associated with the 24 DIKI events extracted from OFFSIDES. 
+
++ [`KidneyTox/diki_phenotype_dsstox_compounds.tsv`](KidneyTox/diki_phenotype_dsstox_compounds.tsv) contains DSSTox compounds associated with the 24 DIKI events extracted from OFFSIDES.
 
 + [`KidneyTox/diki_phenotype_tox21-rt-viability-hek293-p1_association.tsv`](KidneyTox/diki_phenotype_tox21-rt-viability-hek293-p1_association.tsv) contains computed association odds ratio between Tox21 HEK293 Cell viability phenotype and 24 DIKI phenotypes extracted from OFFSIDES.
+
+## LINCS drug-induced gene expression data
+
++ [`LINCS/`](LINCS/) contains the processed mapping files between active compounds of Tox21 assays and cell line-matched LINCS instances under 6 different dosage-time combinations:
+  + [1.11uM + 6h](LINCS/tox21_assay_siginfo_beta_1.11uM_6h_map.tsv)
+  + [1.11uM + 24h](LINCS/tox21_assay_siginfo_beta_1.11uM_24h_map.tsv)
+  + [10uM + 6h](LINCS/tox21_assay_siginfo_beta_10uM_6h_map.tsv)
+  + [10uM + 24h](LINCS/tox21_assay_siginfo_beta_10uM_24h_map.tsv)
+  + [20uM + 6h](LINCS/tox21_assay_siginfo_beta_20uM_6h_map.tsv)
+  + [20uM + 24h](LINCS/tox21_assay_siginfo_beta_20uM_24h_map.tsv)
