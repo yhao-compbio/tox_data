@@ -26,3 +26,5 @@ Detailed documentation about the source dataset can be found at [`downloads/`](d
 + Huang R, Xia M, Sakamuru S, Zhao J, Shahane SA, Attene-Ramos M, Zhao T, Austin CP, Simeonov A. (2016) Modelling the Tox21 10 K chemical profiles for in vivo toxicity prediction and mechanism characterization. Nat Commun. 7:10425
 
 + Huang R, Xia M, Sakamuru S, Zhao J, Lynch C, Zhao T, Zhu H, Austin CP, Simeonov A. (2018) Expanding biological space coverage enhances the prediction of drug adverse effects in human using in vitro activity profiles. Sci Rep. 8(1):3783
+
++ Subramanian A, Narayan R, Corsello SM, Peck DD, Natoli TE, Lu X, Gould J, Davis JF, Tubelli AA, Asiedu JK, Lahr DL. A next generation connectivity map: L1000 platform and the first 1,000,000 profiles. Cell. 2017 Nov 30;171(6):1437-52
